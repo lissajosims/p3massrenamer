@@ -6,8 +6,8 @@
 // @match        http://pocketpumapets.com/*
 // @match        https://pocketpumapets.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/lissajosims/p3massrenamer/432b02d6e4b4476753dea524ec19d38a33281588/p3mass%20renamer
-// @downloadURL  https://raw.githubusercontent.com/lissajosims/p3massrenamer/432b02d6e4b4476753dea524ec19d38a33281588/p3mass%20renamer
+// @updateURL    https://raw.githubusercontent.com/lissajosims/p3massrenamer/refs/heads/main/p3massrenamer
+// @downloadURL  https://raw.githubusercontent.com/lissajosims/p3massrenamer/refs/heads/main/p3massrenamer
 
 // ==/UserScript==
 
